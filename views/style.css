@@ -1,0 +1,77 @@
+.main-header {
+    text-align: center;
+    font-size: 4em;
+    letter-spacing: 0.5em;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+nav {
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Poiret One';
+}
+
+a {
+    text-decoration: none;
+    padding: 20px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+section {
+    width: 800px;
+    height: 800px;
+    margin-left: 420px;
+    text-align: center;
+    border: 2px solid goldenrod;
+    margin-top: 30px;
+    border-radius: 75%;
+    background-image: url('./imgs/white-waves.png');
+    overflow: hidden;
+    box-shadow: 3px 5px 3px rgba(0, 0, 0, 0.3); 
+}
+
+.main-text-greet {
+    margin-left: 50px;
+    margin-top: 100px;
+    font-family: 'Poiret One';
+    font-size: 90px;
+    letter-spacing: 50px;
+}
+
+.main-text {
+    margin-top: 190px;
+    font-family: 'Poiret One';
+    font-size: 30px;
+}
+
+#about-onpage {
+    border: 2px solid goldenrod;
+    border-radius: 90%;
+}
+
+#skills-onpage {
+    border: 2px solid goldenrod;
+    border-radius: 90%;
+}
+
+#contact-onpage {
+    border: 2px solid goldenrod;
+    border-radius: 90%;
+}
+
+h3 {
+    font-family: 'Poiret One';
+    margin-top: 120px;
+    font-size: 90px;
+}
+
+h3:hover {
+    text-decoration: underline;
+}
+
+.contact-links {
+    text-decoration: none;
+}
